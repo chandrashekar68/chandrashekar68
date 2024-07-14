@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Chandrashekar M
-- 👀 I’m interested in FullStack, ML
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in Learning ComputerScience
+
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=chandrashekar68&color=FAC151)][1]
 
 
 <!---
