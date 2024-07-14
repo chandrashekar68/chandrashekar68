@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning ComputerScience
 
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=chandrashekar68&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=chandrashekar68&color=FAC151)
 
 
 <!---
