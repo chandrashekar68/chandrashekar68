@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chandrashekar M
-- 👀 I’m interested in Learning ComputerScience
+- 👀 I’m interested in Solving Complex Problems using programming . 
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=chandrashekar68&color=blue)
